@@ -1,0 +1,31 @@
+{
+  "name": "gmailapp",
+  "version": "1.0.1",
+  "description": "Gmail Desktop is Google Gmail, just ported for your desktop to use, without opening up your browser. This project is not a Google Project, however it is my project an experiment under the MIT License.",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NanobugXL/GmailApp.git"
+  },
+  "keywords": [
+    "gmail",
+    "application",
+    "desktop",
+    "electron",
+    "demo",
+    "email",
+    "google"
+  ],
+  "author": "NanobugXL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NanobugXL/GmailApp/issues"
+  },
+  "homepage": "https://github.com/NanobugXL/GmailApp#readme",
+  "devDependencies": {
+    "electron": "4.1.4"
+  }
+}
