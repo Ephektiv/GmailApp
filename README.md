@@ -4,4 +4,4 @@ Gmail Desktop is Google Gmail application made with Electrons JS, just ported fo
 
 This project is not a Google Project, however it is my project an experiment under the MIT License.
 
-![Gmail App Example](https://picasaweb.google.com/113163514461458701810/6762728470299140417#6762728473101147442 "Gmail App Example")
+![Gmail App Example]([https://i.imgur.com/C9FK7ab.jpg](https://i.imgur.com/C9FK7ab.jpg) "Gmail App Example")
