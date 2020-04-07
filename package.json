@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NanobugXL/GmailApp.git"
+    "url": "git+https://github.com/FiVVR/GmailApp.git"
   },
   "keywords": [
     "gmail",
@@ -22,9 +22,9 @@
   "author": "NanobugXL",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NanobugXL/GmailApp/issues"
+    "url": "https://github.com/FiVVR/GmailApp/issues"
   },
-  "homepage": "https://github.com/NanobugXL/GmailApp#readme",
+  "homepage": "https://github.com/FiVVR/GmailApp#readme",
   "devDependencies": {
     "electron": "4.1.4"
   }
