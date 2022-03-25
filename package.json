@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/FiVVR/GmailApp#readme",
   "devDependencies": {
-    "electron": "9.4.0"
+    "electron": "13.6.6"
   }
 }
